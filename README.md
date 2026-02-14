@@ -1,5 +1,5 @@
 ## Python_WebScarper
-### WebScarpper to Generate Multimodal Dataset
+### WebScraper to Generate Multimodal Dataset
 
 This repository contains a specialized web scraper built with Selenium and PaddleOCR-VL-1.5. It is designed to navigate websites, capture both the DOM structure and visual rendering, and generate normalized JSONL datasets. These datasets are specifically formatted to fine-tune Transformer-based Vision-Language Models (like LayoutLM).
 

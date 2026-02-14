@@ -1,18 +1,18 @@
 # Web Automation
-selenium>=4.10.0
-webdriver-manager>=4.0.0
+selenium>=4.40.0
+webdriver-manager>=4.0.2
 
 # Image Processing
-Pillow>=9.0.0
-opencv-python>=4.6.0
+Pillow>=12.1.1
+opencv-python>=4.13.0.92
 
 # Deep Learning & Vision-Language Models
-torch>=2.0.0
-transformers>=4.30.0
+torch>=2.10.0
+transformers>=5.0.0
 
 # OCR Capabilities
-paddlepaddle>=2.5.0
-paddleocr>=2.7.0
+paddlepaddle-gpu>=3.2.1
+paddleocr>=3.4.0
 
 # Utilities
-tqdm>=4.65.0
+tqdm>=4.67.1
