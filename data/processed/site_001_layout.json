@@ -1,0 +1,1965 @@
+{
+    "id": "site_001",
+    "url": "https://www.dailymail.co.uk/home/index.html",
+    "image_path": "data\\raw\\site_001.png",
+    "css_data_path": "data\\raw\\site_001_css.json",
+    "layoutlm_data": {
+        "words": [
+            "UK Edition",
+            "Privacy Policy",
+            "Feedback",
+            "Follow 23.1M",
+            "Daily Mail",
+            "Monday, Feb 16th 2026",
+            "3PM 7\u00b0C",
+            "6PM 4\u00b0C",
+            "5-Day Forecast",
+            "Home",
+            "News",
+            "Royals",
+            "U.S.",
+            "Sport",
+            "TV",
+            "Showbiz",
+            "Lifestyle",
+            "Health",
+            "Science",
+            "Money",
+            "Travel",
+            "Podcasts",
+            "Buyline",
+            "Daily Mail+",
+            "Subscribe",
+            "ADVERTISEMENT",
+            "Daily Mail",
+            "EXCLUSIVE",
+            "Epstein victim describes how the paedophile raped her",
+            "from the age of 14 and used her as a 'doll' to show others 'what a",
+            "good girl does'- and slams former Prince Andrew for 'ignoring",
+            "survivors'",
+            "I WAS EPSTEIN'S 'DOLL'",
+            "Marina Lacerda, who was 14-years-old when she was first sexually abused by Jeffrey Epstein, talks to the Daily Mail about her ongoing fight for justice following the release of three",
+            "million files related to the serial sex offender.",
+            "Share",
+            "16",
+            "574 comments",
+            "2 videos",
+            "Britain's Got Talent",
+            "dancer, 38, took her",
+            "own life days after",
+            "she was arrested on",
+            "suspicion of a sexual",
+            "offence, inquest",
+            "hears",
+            "Rupert Grint opens up on",
+            "'isolating' and 'traumatising'",
+            "fatherhood journey",
+            "Enter your search",
+            "Search",
+            "DON'T MISS",
+            "Britain's Got Talent",
+            "dancer, 38, took her",
+            "own life days after",
+            "she was arrested on",
+            "suspicion of a sexual",
+            "offence, inquest hears",
+            "Amanda Holden goes",
+            "braless and shows off",
+            "her incredible legs in",
+            "just a bodysuit as she",
+            "celebrates turning 55",
+            "with sizzling shoot",
+            "Harry Potter star",
+            "Rupert Grint opens up",
+            "on 'isolating' and",
+            "'traumatising'",
+            "fatherhood journey after",
+            "he welcomed his",
+            "second child",
+            "Vogue Williams",
+            "reveals everything she",
+            "eats in a day to maintain",
+            "her incredible size 8",
+            "figure - including",
+            "chocolate, crisps, pasta",
+            "and takeaway pizza",
+            "Olivia Copycattwood!",
+            "Love Island star's",
+            "penchant for stealing",
+            "celebrity style is",
+            "revealed - including",
+            "direct rip-offs of Hailey",
+            "Bieber's ensembles",
+            "Kerri-Anne Donaldson, who reached the semi-final of the",
+            "ITV show in 2014 as part of the dance group Kings and",
+            "Queens, was found dead at her home in Farnborough,",
+            "Hampshire, on June 7, 2023. The 38-year-old was",
+            "arrested on June 4 and questioned at a police station",
+            "about a 'sexual' offence, which she denied, an inquest",
+            "into her death was told, discovered her sister had died.",
+            "The inquest in Winchester was told that a post-mortem",
+            "examination gave a cause of death of hanging and it also",
+            "found that she had non-fatal levels of medication in her",
+            "blood which were consistent with an overdose.",
+            "7 comments",
+            "1 video",
+            "share",
+            "Ministers ABANDON bid to delay",
+            "elections for 30 councils in Starmer's",
+            "latest extraordinary U-turn",
+            "NEW",
+            "Ministers have",
+            "abandoned efforts to delay",
+            "council elections in another",
+            "extraordinary U-turn by",
+            "Keir Starmer.",
+            "comments",
+            "share",
+            "I lost my six-figure salary and was",
+            "left \u00a352,000 in debt at 52. This is what it's",
+            "like being a middle-class dad who lost it",
+            "all, how I turned it around... and the",
+            "'modest' new job that's changed my life:",
+            "NICK CARPENTER",
+            "I was lounging on a sun-",
+            "drenched terrace in",
+            "Majorca two summers ago",
+            "when the reality of my",
+            "finances really hit me for",
+            "the first time.",
+            "109 comments",
+            "share",
+            "Are Weetabix actually healthy? Why you",
+            "might be eating them wrong... and how",
+            "simple tweaks turns the breakfast staple",
+            "into nutritional dynamite",
+            "According to Dr Duane",
+            "Mellor, Registered Dietitian",
+            "and Senior Lecturer at",
+            "Aston Medical School,",
+            "Weetabix does deserve",
+            "some of its healthy",
+            "reputation - but with",
+            "caveats.",
+            "Share",
+            "108",
+            "549 comments",
+            "1 video",
+            "BREAKING NEWS",
+            "The incredible SULK: Winter",
+            "Olympics skier STORMS OFF into the",
+            "woods after he crashed out when leading",
+            "for gold - days after his grandfather died",
+            "Staying warm with a",
+            "heat pump: What's",
+            "actually different after",
+            "making the switch from",
+            "a gas boiler?",
+            "AD FEATURE",
+            "Comedian Fatiha El-",
+            "Ghorri, 44, reveals she",
+            "has undergone a",
+            "hysterectomy after",
+            "being diagnosed with",
+            "endometrial cancer",
+            "Choose how to",
+            "use Daily Mail",
+            "Purchase a Daily Mail Essential subscription to view Daily",
+            "Mail without personalised ads",
+            "Already a Daily Mail Essential subscriber?",
+            "Click here",
+            "Reject and Purchase Daily Mail Essential",
+            "View Daily Mail with personalised ads",
+            "Accept",
+            "Latest Headlines",
+            "Australia",
+            "Scotland",
+            "Books",
+            "Rewards",
+            "Mail Shop",
+            "Cars",
+            "Property",
+            "Columnists",
+            "Games",
+            "Login",
+            "Home",
+            "News",
+            "Royals",
+            "U.S.",
+            "Sport",
+            "TV",
+            "Showbiz",
+            "Lifestyle",
+            "Health",
+            "Latest Headlines",
+            "Australia",
+            "Scotland",
+            "Books",
+            "Rewards",
+            "Mail Shop",
+            "Cars",
+            "Property",
+            "Home Last updated: 14:34 GMT, 16 February 2026",
+            "I've suffered for about 20 years with piles.",
+            "Nothing treats them and they're ruining",
+            "my life: DR SCURR reveals the little-",
+            "beat them for good",
+            "A reader asks: I've suffered",
+            "for about 20 years with",
+            "internal haemorrhoids. I've",
+            "had surgery, but the",
+            "bleeding has become more",
+            "frequent and can start",
+            "even after too much",
+            "standing.",
+            "80 comments",
+            "share",
+            "Did Andrew turn the Palace into a",
+            "brothel'? Disgraced royal could face",
+            "new 'great many' sexual offence",
+            "prosecution for a 'grossly disgusting'",
+            "wake",
+            "1.2k comments",
+            "1 video",
+            "share",
+            "Producer of Apple TV's Tehran",
+            "found dead in Greek hotel while",
+            "overseeing filming of new Israeli spy",
+            "show",
+            "119 comments",
+            "19 shares",
+            "Inside the house price armageddon:",
+            "No viewings. Collapse of sales. And",
+            "mounting bills. Forget the spin, those at",
+            "the coal face reveal to you what's",
+            "REALLY going on... and what to",
+            "do if it's you",
+            "20 comments",
+            "20 shares",
+            "Britain goes yellow: Why",
+            "thousands are turning their",
+            "lives yellow this March to",
+            "support Marie Curie",
+            "AD FEATURE",
+            "Jonathan Ross' daughter",
+            "Honey Kinney, 28, finds",
+            "love with video producer",
+            "Gav Murphy, 40, as the",
+            "couple celebrate their first",
+            "Valentine's Day together",
+            "The 1% Club finalist misses",
+            "out on \u00a396k jackpot after",
+            "swerving tricky calendar",
+            "question - but can YOU",
+            "defy the odds and solve it?",
+            "How Lorna Luxe became the",
+            "'OG influencer' with John by",
+            "her side: Former flight",
+            "attendant's journey from a",
+            "council estate in Trafford to",
+            "a millionaire business owner",
+            "Grieving family's 'disgust' after being",
+            "'disgusted' by staff during",
+            "wake",
+            "203 comments",
+            "21 shares",
+            "Hannah Pharoah labelled",
+            "staff at Crossroads cafe in",
+            "King Charles's model town",
+            "of Poundbury, Dorset,",
+            "'disgusting' over the 'sick",
+            "joke' after her father",
+            "Steve's funeral.",
+            "With Daily Mail Essential, we may still use cookies and similar technologies to provide our",
+            "service and for other purposes, including personalised content, measurement, audience",
+            "research and services development. Click Privacy Settings to learn more. Our Privacy",
+            "Settings can also be accessed via our Privacy Policy",
+            "Click 'Accept' to consent to Daily Mail and our partners storing and/or accessing information",
+            "on your device, and processing your personal data for personalised advertising, advertising",
+            "based on limited data, advertising measurement, audience research and services",
+            "development. This includes using precise geolocation data and actively scanning device",
+            "characteristics for identification. You can click to consent to our and our partners' processing",
+            "as described above. Alternatively you may access more detailed information and change your",
+            "preferences before consenting or to refuse to consent. Please note that some processing of",
+            "your personal data may not require your consent, but you have a right to object to such",
+            "processing. Your preferences will apply to Daily Mail only and will be stored for 13",
+            "months."
+        ],
+        "bboxes": [
+            [
+                500,
+                39,
+                537,
+                46
+            ],
+            [
+                543,
+                39,
+                586,
+                46
+            ],
+            [
+                592,
+                39,
+                623,
+                46
+            ],
+            [
+                790,
+                39,
+                839,
+                46
+            ],
+            [
+                262,
+                10,
+                416,
+                29
+            ],
+            [
+                580,
+                14,
+                650,
+                22
+            ],
+            [
+                654,
+                14,
+                689,
+                22
+            ],
+            [
+                693,
+                14,
+                728,
+                22
+            ],
+            [
+                732,
+                14,
+                786,
+                22
+            ],
+            [
+                250,
+                39,
+                270,
+                46
+            ],
+            [
+                276,
+                39,
+                294,
+                46
+            ],
+            [
+                300,
+                39,
+                320,
+                46
+            ],
+            [
+                326,
+                39,
+                340,
+                46
+            ],
+            [
+                346,
+                39,
+                363,
+                46
+            ],
+            [
+                369,
+                39,
+                378,
+                46
+            ],
+            [
+                384,
+                39,
+                409,
+                46
+            ],
+            [
+                415,
+                39,
+                440,
+                46
+            ],
+            [
+                446,
+                39,
+                466,
+                46
+            ],
+            [
+                472,
+                39,
+                494,
+                46
+            ],
+            [
+                500,
+                39,
+                519,
+                46
+            ],
+            [
+                525,
+                39,
+                544,
+                46
+            ],
+            [
+                550,
+                39,
+                575,
+                46
+            ],
+            [
+                581,
+                39,
+                603,
+                46
+            ],
+            [
+                676,
+                10,
+                722,
+                29
+            ],
+            [
+                728,
+                10,
+                766,
+                29
+            ],
+            [
+                247,
+                28,
+                296,
+                35
+            ],
+            [
+                678,
+                102,
+                739,
+                113
+            ],
+            [
+                247,
+                118,
+                327,
+                130
+            ],
+            [
+                332,
+                118,
+                739,
+                130
+            ],
+            [
+                247,
+                127,
+                739,
+                139
+            ],
+            [
+                247,
+                136,
+                710,
+                148
+            ],
+            [
+                247,
+                145,
+                317,
+                157
+            ],
+            [
+                247,
+                269,
+                753,
+                300
+            ],
+            [
+                247,
+                300,
+                753,
+                307
+            ],
+            [
+                247,
+                307,
+                308,
+                314
+            ],
+            [
+                348,
+                308,
+                376,
+                317
+            ],
+            [
+                389,
+                308,
+                422,
+                317
+            ],
+            [
+                422,
+                308,
+                476,
+                317
+            ],
+            [
+                489,
+                308,
+                525,
+                317
+            ],
+            [
+                247,
+                327,
+                392,
+                338
+            ],
+            [
+                247,
+                336,
+                387,
+                346
+            ],
+            [
+                247,
+                345,
+                385,
+                355
+            ],
+            [
+                247,
+                354,
+                397,
+                364
+            ],
+            [
+                247,
+                363,
+                404,
+                373
+            ],
+            [
+                247,
+                372,
+                362,
+                382
+            ],
+            [
+                247,
+                381,
+                277,
+                391
+            ],
+            [
+                425,
+                401,
+                569,
+                412
+            ],
+            [
+                425,
+                410,
+                543,
+                421
+            ],
+            [
+                425,
+                420,
+                500,
+                429
+            ],
+            [
+                600,
+                327,
+                660,
+                334
+            ],
+            [
+                710,
+                327,
+                753,
+                337
+            ],
+            [
+                595,
+                339,
+                644,
+                346
+            ],
+            [
+                595,
+                350,
+                659,
+                357
+            ],
+            [
+                595,
+                356,
+                652,
+                363
+            ],
+            [
+                595,
+                362,
+                659,
+                369
+            ],
+            [
+                595,
+                368,
+                659,
+                375
+            ],
+            [
+                595,
+                374,
+                659,
+                381
+            ],
+            [
+                595,
+                380,
+                659,
+                387
+            ],
+            [
+                595,
+                382,
+                659,
+                389
+            ],
+            [
+                595,
+                388,
+                659,
+                395
+            ],
+            [
+                595,
+                394,
+                659,
+                401
+            ],
+            [
+                595,
+                400,
+                659,
+                407
+            ],
+            [
+                595,
+                406,
+                659,
+                413
+            ],
+            [
+                595,
+                412,
+                659,
+                419
+            ],
+            [
+                595,
+                414,
+                659,
+                421
+            ],
+            [
+                595,
+                420,
+                659,
+                427
+            ],
+            [
+                595,
+                426,
+                659,
+                433
+            ],
+            [
+                595,
+                432,
+                659,
+                439
+            ],
+            [
+                595,
+                438,
+                659,
+                445
+            ],
+            [
+                595,
+                444,
+                659,
+                451
+            ],
+            [
+                595,
+                450,
+                659,
+                457
+            ],
+            [
+                595,
+                452,
+                659,
+                459
+            ],
+            [
+                595,
+                458,
+                659,
+                465
+            ],
+            [
+                595,
+                464,
+                659,
+                471
+            ],
+            [
+                595,
+                470,
+                659,
+                477
+            ],
+            [
+                595,
+                476,
+                659,
+                483
+            ],
+            [
+                595,
+                482,
+                659,
+                489
+            ],
+            [
+                595,
+                488,
+                659,
+                495
+            ],
+            [
+                595,
+                496,
+                659,
+                503
+            ],
+            [
+                595,
+                502,
+                659,
+                509
+            ],
+            [
+                595,
+                508,
+                659,
+                515
+            ],
+            [
+                595,
+                514,
+                659,
+                521
+            ],
+            [
+                595,
+                520,
+                659,
+                527
+            ],
+            [
+                595,
+                526,
+                659,
+                533
+            ],
+            [
+                595,
+                532,
+                659,
+                539
+            ],
+            [
+                247,
+                883,
+                408,
+                891
+            ],
+            [
+                247,
+                890,
+                408,
+                898
+            ],
+            [
+                247,
+                897,
+                408,
+                905
+            ],
+            [
+                247,
+                904,
+                408,
+                912
+            ],
+            [
+                247,
+                911,
+                408,
+                919
+            ],
+            [
+                247,
+                918,
+                408,
+                926
+            ],
+            [
+                247,
+                925,
+                408,
+                933
+            ],
+            [
+                247,
+                932,
+                408,
+                940
+            ],
+            [
+                247,
+                939,
+                408,
+                947
+            ],
+            [
+                247,
+                946,
+                408,
+                954
+            ],
+            [
+                247,
+                953,
+                408,
+                961
+            ],
+            [
+                247,
+                970,
+                299,
+                979
+            ],
+            [
+                312,
+                970,
+                340,
+                979
+            ],
+            [
+                353,
+                970,
+                376,
+                979
+            ],
+            [
+                247,
+                983,
+                408,
+                994
+            ],
+            [
+                247,
+                992,
+                408,
+                1000
+            ],
+            [
+                247,
+                1000,
+                397,
+                1000
+            ],
+            [
+                420,
+                327,
+                444,
+                334
+            ],
+            [
+                449,
+                327,
+                490,
+                334
+            ],
+            [
+                420,
+                333,
+                490,
+                340
+            ],
+            [
+                420,
+                339,
+                490,
+                346
+            ],
+            [
+                420,
+                345,
+                490,
+                352
+            ],
+            [
+                420,
+                351,
+                460,
+                358
+            ],
+            [
+                420,
+                483,
+                469,
+                492
+            ],
+            [
+                482,
+                483,
+                505,
+                492
+            ],
+            [
+                247,
+                500,
+                400,
+                511
+            ],
+            [
+                247,
+                509,
+                400,
+                520
+            ],
+            [
+                247,
+                518,
+                400,
+                529
+            ],
+            [
+                247,
+                527,
+                400,
+                538
+            ],
+            [
+                247,
+                536,
+                400,
+                547
+            ],
+            [
+                247,
+                545,
+                350,
+                556
+            ],
+            [
+                420,
+                562,
+                490,
+                569
+            ],
+            [
+                420,
+                568,
+                490,
+                575
+            ],
+            [
+                420,
+                574,
+                490,
+                581
+            ],
+            [
+                420,
+                580,
+                490,
+                587
+            ],
+            [
+                420,
+                586,
+                490,
+                593
+            ],
+            [
+                420,
+                592,
+                460,
+                599
+            ],
+            [
+                247,
+                913,
+                308,
+                922
+            ],
+            [
+                321,
+                913,
+                344,
+                922
+            ],
+            [
+                247,
+                926,
+                408,
+                937
+            ],
+            [
+                247,
+                935,
+                408,
+                946
+            ],
+            [
+                247,
+                944,
+                408,
+                955
+            ],
+            [
+                247,
+                953,
+                350,
+                964
+            ],
+            [
+                420,
+                969,
+                490,
+                976
+            ],
+            [
+                420,
+                975,
+                490,
+                982
+            ],
+            [
+                420,
+                981,
+                490,
+                988
+            ],
+            [
+                420,
+                987,
+                490,
+                994
+            ],
+            [
+                420,
+                993,
+                490,
+                1000
+            ],
+            [
+                420,
+                1000,
+                490,
+                1000
+            ],
+            [
+                420,
+                1000,
+                490,
+                1000
+            ],
+            [
+                420,
+                1000,
+                449,
+                1000
+            ],
+            [
+                247,
+                979,
+                270,
+                988
+            ],
+            [
+                283,
+                979,
+                300,
+                988
+            ],
+            [
+                313,
+                979,
+                365,
+                988
+            ],
+            [
+                378,
+                979,
+                405,
+                988
+            ],
+            [
+                247,
+                734,
+                359,
+                745
+            ],
+            [
+                364,
+                734,
+                572,
+                745
+            ],
+            [
+                247,
+                743,
+                538,
+                754
+            ],
+            [
+                247,
+                752,
+                557,
+                763
+            ],
+            [
+                247,
+                761,
+                557,
+                772
+            ],
+            [
+                347,
+                900,
+                420,
+                907
+            ],
+            [
+                347,
+                906,
+                420,
+                913
+            ],
+            [
+                347,
+                912,
+                420,
+                919
+            ],
+            [
+                347,
+                918,
+                420,
+                925
+            ],
+            [
+                347,
+                924,
+                400,
+                931
+            ],
+            [
+                347,
+                930,
+                400,
+                937
+            ],
+            [
+                347,
+                942,
+                420,
+                949
+            ],
+            [
+                347,
+                948,
+                420,
+                955
+            ],
+            [
+                347,
+                954,
+                420,
+                961
+            ],
+            [
+                347,
+                960,
+                420,
+                967
+            ],
+            [
+                347,
+                966,
+                420,
+                973
+            ],
+            [
+                347,
+                972,
+                410,
+                979
+            ],
+            [
+                392,
+                867,
+                500,
+                879
+            ],
+            [
+                500,
+                867,
+                610,
+                879
+            ],
+            [
+                148,
+                886,
+                467,
+                895
+            ],
+            [
+                148,
+                894,
+                316,
+                903
+            ],
+            [
+                148,
+                957,
+                350,
+                966
+            ],
+            [
+                353,
+                957,
+                395,
+                966
+            ],
+            [
+                228,
+                979,
+                395,
+                988
+            ],
+            [
+                521,
+                886,
+                734,
+                895
+            ],
+            [
+                674,
+                979,
+                702,
+                988
+            ],
+            [
+                247,
+                247,
+                300,
+                254
+            ],
+            [
+                306,
+                247,
+                339,
+                254
+            ],
+            [
+                345,
+                247,
+                376,
+                254
+            ],
+            [
+                382,
+                247,
+                405,
+                254
+            ],
+            [
+                411,
+                247,
+                442,
+                254
+            ],
+            [
+                448,
+                247,
+                480,
+                254
+            ],
+            [
+                486,
+                247,
+                505,
+                254
+            ],
+            [
+                511,
+                247,
+                540,
+                254
+            ],
+            [
+                247,
+                255,
+                287,
+                262
+            ],
+            [
+                293,
+                255,
+                319,
+                262
+            ],
+            [
+                728,
+                255,
+                753,
+                262
+            ],
+            [
+                299,
+                200,
+                340,
+                217
+            ],
+            [
+                359,
+                200,
+                399,
+                217
+            ],
+            [
+                419,
+                200,
+                464,
+                217
+            ],
+            [
+                484,
+                200,
+                515,
+                217
+            ],
+            [
+                520,
+                200,
+                559,
+                217
+            ],
+            [
+                564,
+                200,
+                584,
+                217
+            ],
+            [
+                590,
+                200,
+                640,
+                217
+            ],
+            [
+                646,
+                200,
+                699,
+                217
+            ],
+            [
+                705,
+                200,
+                749,
+                217
+            ],
+            [
+                247,
+                247,
+                300,
+                254
+            ],
+            [
+                306,
+                247,
+                339,
+                254
+            ],
+            [
+                345,
+                247,
+                376,
+                254
+            ],
+            [
+                382,
+                247,
+                405,
+                254
+            ],
+            [
+                411,
+                247,
+                442,
+                254
+            ],
+            [
+                448,
+                247,
+                480,
+                254
+            ],
+            [
+                486,
+                247,
+                505,
+                254
+            ],
+            [
+                511,
+                247,
+                540,
+                254
+            ],
+            [
+                247,
+                157,
+                457,
+                165
+            ],
+            [
+                595,
+                425,
+                753,
+                436
+            ],
+            [
+                595,
+                434,
+                753,
+                445
+            ],
+            [
+                595,
+                443,
+                753,
+                454
+            ],
+            [
+                595,
+                452,
+                700,
+                463
+            ],
+            [
+                595,
+                469,
+                660,
+                476
+            ],
+            [
+                595,
+                475,
+                660,
+                482
+            ],
+            [
+                595,
+                481,
+                660,
+                488
+            ],
+            [
+                595,
+                487,
+                660,
+                494
+            ],
+            [
+                595,
+                493,
+                660,
+                500
+            ],
+            [
+                595,
+                499,
+                660,
+                506
+            ],
+            [
+                595,
+                505,
+                660,
+                512
+            ],
+            [
+                595,
+                511,
+                627,
+                518
+            ],
+            [
+                595,
+                533,
+                650,
+                542
+            ],
+            [
+                663,
+                533,
+                686,
+                542
+            ],
+            [
+                595,
+                546,
+                753,
+                557
+            ],
+            [
+                595,
+                555,
+                753,
+                566
+            ],
+            [
+                595,
+                564,
+                753,
+                575
+            ],
+            [
+                595,
+                573,
+                753,
+                584
+            ],
+            [
+                595,
+                582,
+                617,
+                593
+            ],
+            [
+                595,
+                599,
+                659,
+                608
+            ],
+            [
+                672,
+                599,
+                699,
+                608
+            ],
+            [
+                712,
+                599,
+                735,
+                608
+            ],
+            [
+                595,
+                612,
+                753,
+                623
+            ],
+            [
+                595,
+                621,
+                753,
+                632
+            ],
+            [
+                595,
+                630,
+                753,
+                641
+            ],
+            [
+                595,
+                639,
+                617,
+                650
+            ],
+            [
+                595,
+                662,
+                659,
+                671
+            ],
+            [
+                672,
+                662,
+                712,
+                671
+            ],
+            [
+                595,
+                675,
+                753,
+                686
+            ],
+            [
+                595,
+                684,
+                753,
+                695
+            ],
+            [
+                595,
+                693,
+                753,
+                704
+            ],
+            [
+                595,
+                702,
+                753,
+                713
+            ],
+            [
+                595,
+                711,
+                753,
+                722
+            ],
+            [
+                595,
+                720,
+                637,
+                731
+            ],
+            [
+                595,
+                752,
+                650,
+                761
+            ],
+            [
+                663,
+                752,
+                703,
+                761
+            ],
+            [
+                595,
+                765,
+                753,
+                776
+            ],
+            [
+                595,
+                774,
+                753,
+                785
+            ],
+            [
+                595,
+                783,
+                753,
+                794
+            ],
+            [
+                595,
+                792,
+                690,
+                803
+            ],
+            [
+                595,
+                801,
+                659,
+                812
+            ],
+            [
+                595,
+                816,
+                753,
+                827
+            ],
+            [
+                595,
+                825,
+                753,
+                836
+            ],
+            [
+                595,
+                834,
+                753,
+                845
+            ],
+            [
+                595,
+                843,
+                753,
+                854
+            ],
+            [
+                595,
+                852,
+                753,
+                863
+            ],
+            [
+                595,
+                861,
+                753,
+                872
+            ],
+            [
+                595,
+                876,
+                753,
+                887
+            ],
+            [
+                595,
+                885,
+                753,
+                896
+            ],
+            [
+                595,
+                894,
+                753,
+                905
+            ],
+            [
+                595,
+                903,
+                753,
+                914
+            ],
+            [
+                595,
+                912,
+                753,
+                923
+            ],
+            [
+                595,
+                927,
+                753,
+                938
+            ],
+            [
+                595,
+                936,
+                753,
+                947
+            ],
+            [
+                595,
+                945,
+                753,
+                956
+            ],
+            [
+                595,
+                954,
+                753,
+                965
+            ],
+            [
+                595,
+                963,
+                753,
+                974
+            ],
+            [
+                595,
+                972,
+                753,
+                983
+            ],
+            [
+                790,
+                9,
+                953,
+                20
+            ],
+            [
+                790,
+                18,
+                953,
+                29
+            ],
+            [
+                790,
+                27,
+                817,
+                38
+            ],
+            [
+                790,
+                49,
+                854,
+                58
+            ],
+            [
+                867,
+                49,
+                907,
+                58
+            ],
+            [
+                790,
+                64,
+                860,
+                71
+            ],
+            [
+                790,
+                70,
+                860,
+                77
+            ],
+            [
+                790,
+                76,
+                860,
+                83
+            ],
+            [
+                790,
+                82,
+                860,
+                89
+            ],
+            [
+                790,
+                88,
+                860,
+                95
+            ],
+            [
+                790,
+                94,
+                860,
+                101
+            ],
+            [
+                790,
+                100,
+                840,
+                107
+            ],
+            [
+                148,
+                905,
+                467,
+                914
+            ],
+            [
+                148,
+                913,
+                467,
+                922
+            ],
+            [
+                148,
+                921,
+                467,
+                930
+            ],
+            [
+                148,
+                929,
+                395,
+                938
+            ],
+            [
+                521,
+                898,
+                844,
+                907
+            ],
+            [
+                521,
+                906,
+                844,
+                915
+            ],
+            [
+                521,
+                914,
+                844,
+                923
+            ],
+            [
+                521,
+                922,
+                844,
+                931
+            ],
+            [
+                521,
+                930,
+                844,
+                939
+            ],
+            [
+                521,
+                938,
+                844,
+                947
+            ],
+            [
+                521,
+                946,
+                844,
+                955
+            ],
+            [
+                521,
+                954,
+                844,
+                963
+            ],
+            [
+                521,
+                962,
+                844,
+                971
+            ],
+            [
+                521,
+                970,
+                550,
+                979
+            ]
+        ]
+    }
+}

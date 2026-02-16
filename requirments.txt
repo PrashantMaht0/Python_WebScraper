@@ -11,8 +11,8 @@ torch>=2.10.0
 transformers>=5.0.0
 
 # OCR Capabilities
-paddlepaddle-gpu>=3.2.1
-paddleocr>=3.4.0
+google-genai>=1.63.0 
+websockets>=15.0.1 
 
 # Utilities
 tqdm>=4.67.1
