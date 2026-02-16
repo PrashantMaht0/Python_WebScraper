@@ -35,7 +35,11 @@ This project uses `python-dotenv` to securely manage credentials. You must creat
 
 1. In the root directory of this project (at the same level as the `src` folder), create a new file named exactly `.env`.
 2. Open the `.env` file in your code editor and add the following line, pasting your copied key after the equals sign (do not use quotation marks):
-   `GEMINI_API_KEY=your_copied_api_key_here`
+   `GEMINI_API_KEY=your_copied_api_key`
+   
+[![Anti-Trust-War Machine](https://img.youtube.com/vi/RVGbLSVFtIk/maxresdefault.jpg)](https://www.youtube.com/watch?v=3CM1_Ji6fJ8)  
+
+This video provides a direct, visual walkthrough of navigating Google AI Studio to successfully generate and secure the API key required for your pipeline
 
 ### Pipeline Architecture
 
